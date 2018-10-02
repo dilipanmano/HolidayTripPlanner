@@ -4,7 +4,7 @@ The Holiday Trip Planner application makes the customer book tour packages of th
  1. **src** folder consists of the java files
  2. **tour.xlsx** is the file used for storing Login, Passenger and Bank Details
  
-###### Used JAR file
+## Used JAR file
 
 `fillo` JAR 1.15
 
