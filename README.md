@@ -19,7 +19,7 @@ The Holiday Trip Planner application makes the customer book tour packages of th
 2. Run HolidayTripPlanner.exe .
 Note:
    The other files present in the Executable file folder should present in the 
-   same directory of the HolidayTripPlanner.exe file.
+   same directory where the HolidayTripPlanner.exe file is present.
 ```
 
 Take a look at [@DevaGaneshB](https://github.com/DevaGaneshB):fire:
