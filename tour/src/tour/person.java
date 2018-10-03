@@ -184,6 +184,7 @@ JFrame frame = new JFrame("Total Persons");
 								String str1Queryc ="INSERT INTO Sheet5(Name,Age,Gender)VALUES('"+t1.getText()+"','"+t2.getText()+"','"+t3.getText()+"')";
 								connection1.executeUpdate(str1Queryc);		
 								connection1.close();
+							 	y = y - 1; 
 							} catch (FilloException e1) {
 								
 								e1.printStackTrace();
